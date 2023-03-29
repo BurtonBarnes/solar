@@ -19,3 +19,6 @@ I believe direct current would be better for solar energy
 |AC_POWER| The amount of AC power generated|
 |DAILY_YIELD| The total of AC and DC power generated|
 |TOTAL_YIELD| The total yield that the plant has generated over its entire life|
+
+## Exploration 
+Study the data taken from kaggle and how it interacts with each other
