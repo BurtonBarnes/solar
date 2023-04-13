@@ -22,3 +22,9 @@ I believe direct current would be better for solar energy
 
 ## Exploration 
 Study the data taken from kaggle and how it interacts with each other
+### Summary
+* Much more DC Power is generated than AC Power
+* Most Days AC Power generated is 0
+* Most Days DC Power generated is 0
+* Total Yield peaks at 7,250,000
+* Daily Yield is mostly 0 but is usally between 6000 and 8000
